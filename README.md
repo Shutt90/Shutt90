@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shutt90
-- 👀 I’m interested in all forms of development - web, software, games, apps
-- 🌱 I’m currently learning PHP and Laravel
-- 💞️ I’m looking to collaborate on html5 games mainly
+- 👋 Hi, I’m Liam
+- 👀 I’m interested in all forms of development, but I'm mainly focused on web tech at the momentw
+- 🌱 I’m currently learning React and strengthening my Laravel skills
+- 💞️ I’m looking to collaborate on any technologies, preferably where I can work on the front end.
 - 📫 How to reach me drop me a line at hello@liampugh.co.uk
 
 <!---
